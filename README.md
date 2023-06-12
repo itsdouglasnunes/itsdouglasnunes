@@ -6,7 +6,7 @@
 
   👯 Always eager to connect with other experts and collaborate
 
-  🔭 Developing Platform Engineering toolchain and CCoE lately 
+  🔭 Developing Platform Engineering toolchain, Reusable architecture templates for CCoE and evolution of Multi-Cloud Networking and Security
 
 <!--
 **itsdouglasnunes/itsdouglasnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
