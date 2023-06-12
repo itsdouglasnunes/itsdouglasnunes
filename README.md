@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Douglas 👋
+
+🚀 I'm specialize in Azure and AWS Cloud, with background in Networking Architecture and Security with over 20 years experience 
+🤝🏻 I almost up for some nice discussion about technology over a coffee or beer after business hours. 
+👯 Always eager to connect with other experts and collaborate.
 
 <!--
 **itsdouglasnunes/itsdouglasnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
