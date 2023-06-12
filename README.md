@@ -1,4 +1,4 @@
-### Hi there, I'm Douglas 👋
+### Hi there, I'm Doug 👋
 
   🚀 I'm specialize in Azure and AWS Cloud, with background in Networking Architecture and Security with over 20 years experience 
 
