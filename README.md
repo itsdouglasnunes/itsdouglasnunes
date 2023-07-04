@@ -9,7 +9,8 @@
   🔭 Developing Platform Engineering toolchain, reusable architecture templates for CCoE
   
   🔭 Evolution of Multi-Cloud Networking and Security
-
+,
+  🔭 Containers are my new obsession... AKS and EKS for now, with a bit of Openshift to spice things up!
 <!--
 **itsdouglasnunes/itsdouglasnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
