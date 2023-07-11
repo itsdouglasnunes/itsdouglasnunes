@@ -12,7 +12,7 @@
 
   🔭 K8s is my new obsession... AKS and EKS for now, with a bit of Openshift to spice things up
 
-  🌱 OpenAI, AIOps, GPT4... loving to learn about it!
+  🌱 OpenAI, AIOps, GPT4... supporting, experimenting and loving to learn about it!
 <!--
 **itsdouglasnunes/itsdouglasnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
