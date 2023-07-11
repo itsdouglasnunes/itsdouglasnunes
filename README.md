@@ -1,6 +1,6 @@
 ### Hi there, I'm Doug 👋
 
-  🚀 I'm specialize in Azure and AWS Cloud, with background in Infrastructure (Linux, Networking Architecture and Security) with over 20 years experience 
+  🚀 I'm specialize in Azure and AWS Cloud, with background in Infrastructure (Linux, Cloud Infrastructure, Networking and Security Architecture) with over 20 years experience 
 
   🤝🏻 I'm always up for some nice discussion about technology over a good cup of coffee or a cold beer after business hours
 
