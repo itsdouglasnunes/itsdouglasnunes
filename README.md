@@ -1,18 +1,14 @@
 ### Hi there, I'm Doug 👋
 
-  🚀 I'm specialized in Azure and AWS Cloud, with background in Infrastructure (Linux, IT Infrastructure, Networking and Security Architecture) with + 20 years experience 
+  🚀 Technologist specialized in Multi-Cloud Architecture (Azure and AWS mostly), with background in Infrastructure (IT Infrastructure (Linux and Unix Operations), Networking and Security Architecture) with 20+ years of experience 
 
   🤝🏻 I'm always up for some nice discussion about technology over a good cup of coffee or a cold beer after business hours
 
   👯 Always eager to connect with other experts and collaborate
 
-  🔭 DevOps Architecture are development of Platform Engineering toolchain, reusable architecture templates for CCoE
-  
-  🔭 Evolution of Multi-Cloud Networking and Security Features
+  🔭 I'm obsessed with microservices over K8s... AKS and EKS for now, with a bit of Openshift for on-premises to spice things up
 
-  🔭 K8s is my new obsession... AKS and EKS for now, with a bit of Openshift to spice things up
-
-  🌱 OpenAI, AIOps, GPT4... supporting, experimenting and loving to learn about it!
+  🌱 OpenAI, GPT4, Bard, Llama2... supporting, experimenting and loving to learn about it!
 <!--
 **itsdouglasnunes/itsdouglasnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
